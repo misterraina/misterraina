@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with opportunities.
 - 📫 How to reach me: 21bee016@smvdu.ac.in
 
-** 🕸 Full Stack Development Engineer | 💻Open Source Contributor
+** 🕸 Full Stack Development | 💻Open Source Contributor
 
 ** Technologies
 
