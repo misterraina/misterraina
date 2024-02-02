@@ -12,13 +12,13 @@
 ** Technologies
 
     Languages:
-    Python, JavaScript, C++
+    Python, JavaScript, C
 
     Front-end:
-    React.js, EJS, Html-CSS, Javascript, Bootstrap
+    React.js, Html-CSS, Bootstrap
 
     Back-end:
-    Node & Express, postgresql
+    Node & Express, postgresql ,MongoDb MERN
 
     
 
